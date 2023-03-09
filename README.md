@@ -12,10 +12,10 @@ In 20 trys, the ninja should reach 250 gold. If the ninja doesn't fail, restart 
 
 ## Probability ## 
 
-•	cave 100% + 5 gold
-•	house 80% + 10 gold
-•	goldmine 80% + 1 - 25 gold (random)
-•	casino 50% (+ OR -) 40 - 50 gold (random)
+- cave 100% + 5 gold
+-	house 80% + 10 gold
+-	goldmine 80% + 1 - 25 gold (random)
+-	casino 50% (+ OR -) 40 - 50 gold (random)
 
 ## Features ##
 •	Counter for number of attemps
